@@ -6,11 +6,14 @@ img{
 	height:20vw;
 	border:3px solid yellow;
 }
-li{
+ul{
+	float: left; /* Обтекание справа */
+  width: 20%; 
 background-color:#a31010;	
 border:3px solid yellow;
 color:white;
 font-size: 20px;
+ margin-top: 0;
 
 }
 h1{
@@ -18,4 +21,11 @@ h1{
 	color:white;
 	text-align:center;
 	font-size:70px;
-	
+}
+p{
+	 margin-left: 24%;
+	 text-align:center;
+	 border:3px solid yellow;
+	 background-color:#a31010;
+	color:white;
+}
