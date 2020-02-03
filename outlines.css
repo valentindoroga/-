@@ -1,5 +1,8 @@
-html,
-p{
-	font-size: 100px;
-	text-align:center;
+
+img{
+	display:inline-block;
+	margin:0 auto;
+	width:90%;
+	height:20vw;
+	border:3px solid yellow;
 }
